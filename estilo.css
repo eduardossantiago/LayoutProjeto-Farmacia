@@ -1,0 +1,38 @@
+*{padding:0; margin:0;list-style:none;font-family:arial;}
+html{margin:0; padding:0;overflow-y:hidden;}
+
+
+#headler{color:white;padding-left:9px;background:#193441;width:auto; height:auto;position:relative;font-weight:bold; font-size:auto;}
+
+#headler a{text-decoration:none;color:white;display:block;}
+
+#sub{float:right; position:absolute;right:24px;top:3px;width:15%;height:85%;background-color:#979C9C;
+	border:none;border-radius:10px;font-weight:bold;font-size:auto;color:white;cursor:pointer;}
+
+.inputmob{width:62%;height:auto;margin:3px 3px;text-align:center;font-weight:bold;}
+#quantidade{margin-left:7px;}
+
+#divtableitems{height:75%;}
+
+
+#tableitems{border-bottom:1px solid #ddd;border-collapse: collapse;width:100%;font-size:11px;}
+#tableitems th{background-color:#3e606f;height:25px;width:auto;border-bottom:1px solid #ddd;color:white;}
+#tableitems td{height:25px;text-align:center;border-bottom:1px solid #ddd;}
+.descricao{text-align:left;}
+#tableitems tr:nth-child(even){background-color:#d1dbbd}
+#tableitems img{max-width:17px; height:auto;}
+.txttotal{font-size:110%;font-weight:bold;}
+
+
+
+#keyboarddiv {}
+.key{margin-left:1.5%;color:white; font-weight:bold;font-size:100%;position:relative; border:solid 1px;border-radius:10px;
+	margin-bottom:1%; width:47%; height:7%; background:#279bf6;}
+#buscar{background-color:#348899;}
+#sair{background-color:#468966;}
+
+#foot{bottom:0;height:10%;width:100%;background-color:#193441;color:white;font-weight:bold;font-size:70%;}
+#operador{margin-top:1%;position:relative;float:left;left:4%;}
+#comanda{margin-top:1%;position:relative;float:left;left:38%;}
+
+
